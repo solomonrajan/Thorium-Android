@@ -2,7 +2,7 @@
 
 # Thorium Browser for Android
 
-<img src="https://github.com/Alex313031/Thorium-Android/blob/main/ThoriumLogo.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/Alex313031/Thorium-Android/blob/main/Android_Robot.svg" width="162">
+<img src="https://github.com/Alex313031/Thorium-Android/blob/main/ThoriumLogo.png"> &nbsp;&nbsp;&nbsp;&nbsp;<img src="[https://github.com/Alex313031/Thorium-Android/blob/main/Android_Robot.svg](https://raw.githubusercontent.com/solomonrajan/Thorium-Android/main/android-2023-rebrand-3-anim.gif)" width="162">
 
  &ndash; Simply a seperate repo to serve builds of [Thorium](https://thorium.rocks/) for Android. Both arm32 and arm64 are supported.
 
